@@ -41,8 +41,5 @@ I'm a passionate Data Scientist eager to explore the edges of machine learning a
 ### ✍️ Random Dev Quote:
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Humor:
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ### 📞 Contact Me:
 Thank you for visiting my profile! Feel free to connect!
