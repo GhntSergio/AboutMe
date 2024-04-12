@@ -1,8 +1,7 @@
 # AboutMe
 My profile detail
 # 💫 About Me:
-I'm currently preparing my Master degree in Data Science<br>I'm looking to collaborate on ML,DL and NLP project with python<br>I'm currently learning for AWS certificate
-
+I'm a Data Sciencist<br>I'm looking to collaborate on ML,DL and NLP project with python<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MPVBTWWf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gserge/) 
