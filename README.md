@@ -39,7 +39,7 @@ I am a Data Scientist with a strong background in developing advanced analytical
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Inspirational Quote:
-<div style="background-color:#2c3e50; padding: 20px; border-radius: 10px; border: 1px solid #34495e; box-shadow: 0px 4px 8px rgba(0,0,0,0.5); transition: background-color 0.3s;">
+<div style="background-color:#2c3e50; padding: 20px; border-radius: 10px; border: 1px solid #34495e; box-shadow: 0px 4px 8px rgba(0,0,0,0.7); transition: background-color 0.3s;">
   <p style="font-style: italic; color: #87CEEB; margin: 0; line-height: 1.5;">
     “I remember you was conflicted, misusing your influence, sometimes I did the same.”
   </p>
