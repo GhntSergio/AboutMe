@@ -5,10 +5,10 @@
 ---
 
 ### 🌟 About Me:
-I'm a passionate Data Scientist eager to explore the edges of machine learning and share my journey. I'm here to collaborate on projects that challenge the status quo and innovate through code.
+I am a Data Scientist with a strong background in developing advanced analytical solutions and machine learning models to drive strategic decision-making.  My experience spans across various industries, including insurance and financial services, where I’ve designed solutions that enhance risk management and optimize business processes.
 
 ### 🌐 Connect with Me:
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gserge/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gserge/)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MPVBTWWf)
 
 ### 💻 Tech Stack:
@@ -32,14 +32,32 @@ I'm a passionate Data Scientist eager to explore the edges of machine learning a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-<!-- More badges can be added in the same way -->
 
 ### 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GhntSergio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### ✍️ Random Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✍️ 
+
+<div style="background-color:#1e1e1e; padding: 20px; border-radius: 10px; border: 1px solid #333; box-shadow: 0px 4px 8px rgba(0,0,0,0.5); transition: background-color 0.3s;">
+  <p style="font-style: italic; color: #87CEEB; margin: 0; line-height: 1.5;">
+    “I remember you was conflicted, misusing your influence, sometimes I did the same.”
+  </p>
+  <div style="text-align: right; color:#FF6F00; font-weight: bold;">
+    — Kendrick Lamar, "The Blacker the Berry"
+  </div>
+</div>
+
+<style>
+  div:hover {
+    background-color: #333;
+  }
+</style>
+
+
+
+
 
 ### 📞 Contact Me:
-Thank you for visiting my profile! Feel free to connect!
+Thank you for visiting my profile! Feel free to connect with me through LinkedIn or Discord for any collaboration or discussion opportunities.
